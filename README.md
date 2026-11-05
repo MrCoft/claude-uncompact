@@ -7,7 +7,7 @@ Compaction never deletes anything: the transcript in `~/.claude/projects/<projec
 ## Install
 
 ```sh
-git clone git@github.com:MrCoft/claude-uncompact.git ~/.claude/skills/uncompact
+git clone https://github.com/MrCoft/claude-uncompact.git ~/.claude/skills/uncompact
 ```
 
 Requires Node 18+. Update with `git -C ~/.claude/skills/uncompact pull`.
